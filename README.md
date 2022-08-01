@@ -32,6 +32,7 @@
 </div>
 <h2>Sevdiğim Diziler</h2>
 <h3>Breaking Bad</h3>
+<img src="https://github.com/ilkaybulbul/odevHtml2/blob/master/breakingBad.jpg" alt="Breaking Bad">
 
 <p>Lisede kimya öğretmenliği yapan <strong>Walter White</strong>  bir gün doktordan ileri safhada akciğer kanseri olduğunu öğrenir. Kendisinden sonra geride kalan ailesine maddi birikim sağlamak isteyen <strong>Walter White</strong> , uyuşturucu yapımında ustalaşan eski bir öğrencisi, <strong>Jesse Pinkman</strong>  ile beraber uyuşturucu işine girer. Elbetteki yasa dışı yollardan ve uyuşturucunun da eş anlamlısının bela olduğunu bilerek...</p>
 Footer
